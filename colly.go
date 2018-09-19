@@ -47,8 +47,8 @@ import (
 	"github.com/kennygrant/sanitize"
 	"github.com/temoto/robotstxt"
 
-	"github.com/gocolly/colly/debug"
-	"github.com/gocolly/colly/storage"
+	"github.com/afly3/colly/debug"
+	"github.com/afly3/colly/storage"
 )
 
 // Collector provides the scraper instance for a scraping job
